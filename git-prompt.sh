@@ -5,7 +5,7 @@
 #
 # This script allows you to see repository status in your prompt.
 #
-# Ratita socialista esto es un cambio
+# Ratita socialista esto es un cambio adicional
 #
 # To enable:
 #
