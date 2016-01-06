@@ -5,6 +5,8 @@
 #
 # This script allows you to see repository status in your prompt.
 #
+# Ratita socialista esto es un cambio
+#
 # To enable:
 #
 #    1) Copy this file to somewhere (e.g. ~/.git-prompt.sh).
